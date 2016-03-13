@@ -1,0 +1,11 @@
+Title: Home
+
+----
+
+Text: 
+
+is a Designer / Developer at (link: formstack.com text: Formstack). He lives in Portland, OR where he likes riding the train, taking photographs, and learning as much as he can about the web. He is forever on a quest to find the perfect scone.
+
+<p>He's currently listening to <a id="lastfm" href="http://www.last.fm/user/josephtatum"></a>.</p> 
+
+(twitter: josephtatum text: twitter) | (link: http://instagram.com/josephtatum text: instagram) | (email: josephtatum@.com text: email)
